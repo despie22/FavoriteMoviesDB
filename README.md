@@ -1,2 +1,2 @@
 # FavoriteMoviesDB
-Java Web project that has a sorted view, search, add to database and reset database controllers.
+Java model-view-controller web project that has a controller to sort movies, search movies, add to database and reset database.
