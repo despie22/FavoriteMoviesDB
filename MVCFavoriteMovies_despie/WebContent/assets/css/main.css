@@ -1,0 +1,49 @@
+.container {
+	width:1000px;
+}
+
+.hero-unit {
+	background-color: #6e2020;
+	color: #17719d;
+}
+
+h1 {
+	text-align: center;
+}
+
+h2 {
+	opacity: 0;
+}
+
+#mainText {
+	padding-left: 25px;
+}
+
+.nav > li > a {
+	text-align: center;
+	margin: 0 auto;
+}
+
+.movieInfo {
+	opacity: 0;
+}
+
+#submit {
+	position: relative;
+	top: 10px;
+}
+
+#dropBox {
+	width: 100px;
+}
+
+#searchBar {
+	display: block;
+}
+
+#searchButton {
+	position: relative;
+	left: 75px;
+	top: 10px;
+	margin: 0 auto;	
+}
